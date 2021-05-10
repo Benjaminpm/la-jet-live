@@ -5,17 +5,17 @@ Inicio de sesión, registro, verificación de correo electrónico, autenticació
 Laravel Jetstream es un kit de inicio de aplicación bellamente diseñado para Laravel y proporciona el punto de partida perfecto para su próxima aplicación de Laravel.
 
 ¿Qué tecnologías se utilizan?
-Laravel Framework 8.40.0 - Jetstream - Livewire.
+Laravel Framework 8.40.0 - Jetstream - Inertia.
 
 ¿Cuál es la ambición del proyecto?
 Probar las tecnologías anteriormente mencionadas. 
 
-¿se implementará en algún lugar?
+¿Se implementará en algún lugar?
 No. Sin embargo proporciona el punto de partida perfecto para su próxima aplicación de Laravel.
 
 ¿Cuál es la etapa del proyecto?
 Proyecto final.
 
 ¿Hay algunos problemas conocidos o cosas que no se hacen correctamente?
-Si. Se debe crear el proyecto desde el inicio para que no surja problemas con el Jetstream - Livewire.
+Sí. Se debe crear el proyecto desde el inicio para que no surja problemas con el Jetstream - Livewire.
 Es decir no se puede implementar en proyectos que ya tengan tecnologías adicionales.
